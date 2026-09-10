@@ -16,6 +16,11 @@ The backend of the application is available in a separate repository:
 
 [EnergyApp Backend on GitHub](https://github.com/maciejbros/EnergyApp_Backend.git)
 
+The complete application consists of both repositories:
+
+* **EnergyApp Frontend** — React + TypeScript
+* **EnergyApp Backend** — C# + ASP.NET Core 8
+
 ## Features
 
 * React-based user interface
@@ -205,10 +210,6 @@ The production application communicates with the separately deployed ASP.NET Cor
 └─────────────────────────┘
 ```
 
-The complete application consists of both repositories:
-
-* **EnergyApp Frontend** — React + TypeScript
-* **EnergyApp Backend** — C# + ASP.NET Core 8
 
 ## Purpose of the Project
 
