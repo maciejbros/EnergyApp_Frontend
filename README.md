@@ -10,6 +10,12 @@ The application is hosted on Microsoft Azure and is available online:
 
 [Open EnergyApp](https://energy-frontend-dcauf6fbhnfrheg8.polandcentral-01.azurewebsites.net/)
 
+## Related Repository
+
+The backend of the application is available in a separate repository:
+
+[EnergyApp Backend on GitHub](https://github.com/maciejbros/EnergyApp_Backend.git)
+
 ## Features
 
 * React-based user interface
@@ -198,12 +204,6 @@ The production application communicates with the separately deployed ASP.NET Cor
 │   External Energy API   │
 └─────────────────────────┘
 ```
-
-## Related Repository
-
-The backend of the application is available in a separate repository:
-
-[EnergyApp Backend on GitHub](https://github.com/maciejbros/EnergyApp_Backend.git)
 
 The complete application consists of both repositories:
 
